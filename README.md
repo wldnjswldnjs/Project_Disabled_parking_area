@@ -6,8 +6,13 @@
 ## 입차시 장애인 스티커의 유무와 번호판 데이터 전달
 ![image](https://user-images.githubusercontent.com/97171635/182345391-2e24ad06-b05b-4f3d-ba24-aecaa1e8ab3d.png)
 
+![image](https://user-images.githubusercontent.com/97171635/204138544-092e0020-d90a-4733-a028-3780e7cc852c.png)
+
 ## 장애인 주차 구역에서 번호판 대조
 ![image](https://user-images.githubusercontent.com/97171635/182345452-82b6ab1a-ee0a-41c4-8092-def56343b870.png)
+
+![image](https://user-images.githubusercontent.com/97171635/204138588-fcb494b5-fabd-4502-a74a-eb0187843528.png)
+
 
 ## 모델 선정
 ![image](https://user-images.githubusercontent.com/97171635/184114754-55e112df-df63-44b4-bcce-6e7216f336a0.png)
