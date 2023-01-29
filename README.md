@@ -3,8 +3,6 @@
 ## 기획의도
 
 신고자에 대한 보복성 행위가 증가를 해결하고 장애인주차공간의 확보를 위해 다음과같은 시스템을 구상
-[image](https://user-images.githubusercontent.com/97171635/215324978-363d663b-3fa0-4c64-a304-3aabb3d78985.png)
-
 ![image](https://user-images.githubusercontent.com/97171635/215324944-00e746da-83b9-49e7-b89c-9e08278c7f6c.png)
 
 장애인전용주차구역 불법 주차 적발 건수와 중복 위반 현황 모두 매년 증가 추세를 보여, 현재 시행되는 단속 및 위반 방지 시스템의 실효성이 적다고 판단
