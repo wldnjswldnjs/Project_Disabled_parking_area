@@ -16,9 +16,12 @@
 ## 시스템 구성
 ![image](https://user-images.githubusercontent.com/97171635/215325632-1edc4d7a-4814-4851-91b4-f6417709591d.png)
 
-차량번호 error
+### 차량번호 error
+#### - AI 모델에서 넘어온 차량 번호가 정상적으로 감지되지 않았을 때 오른쪽 하단 알림과 같이 팝업이 뜨게 됩니다.
 ![image](https://user-images.githubusercontent.com/97171635/215325690-9d95de9f-d9f8-4b11-b132-33fc85e1b952.png)
 
+#### - 입차 차량 조회 페이지에서는 차량 번호, 장애인 스티커 유/무, 입차 시간, 차량 사진을 볼 수 있습니다.
+#### -차량 번호가 정상적이지 않으면 관리자가 사진을 보고 번호를 수정할 수 있습니다.
 ![image](https://user-images.githubusercontent.com/97171635/215325754-261978c3-4bea-49bb-b31c-217a69d76c73.png)
 
 ## 모델 선정
