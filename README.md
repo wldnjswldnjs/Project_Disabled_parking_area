@@ -13,6 +13,13 @@
 
 ![image](https://user-images.githubusercontent.com/97171635/204138588-fcb494b5-fabd-4502-a74a-eb0187843528.png)
 
+## 시스템 구성
+![image](https://user-images.githubusercontent.com/97171635/215325632-1edc4d7a-4814-4851-91b4-f6417709591d.png)
+
+차량번호 error
+![image](https://user-images.githubusercontent.com/97171635/215325690-9d95de9f-d9f8-4b11-b132-33fc85e1b952.png)
+
+![image](https://user-images.githubusercontent.com/97171635/215325754-261978c3-4bea-49bb-b31c-217a69d76c73.png)
 
 ## 모델 선정
 ![image](https://user-images.githubusercontent.com/97171635/184114754-55e112df-df63-44b4-bcce-6e7216f336a0.png)
