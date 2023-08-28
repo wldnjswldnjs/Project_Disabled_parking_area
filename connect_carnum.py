@@ -64,7 +64,7 @@ class MqttWorker:
     def mymqtt_connect(self):  # 사용자정의 함수 - mqtt서버연결과 쓰레드생성 및 시작을 사용자정의 함수로 정의
         try:
             print("브로커 연결 시작하기")
-            self.client.connect("3.25.85.102", 1883, 60)
+            self.client.connect("", 1883, 60)
             mythreadobj = Thread(target=self.client.loop_forever)
             mythreadobj.start()
         except KeyboardInterrupt:
